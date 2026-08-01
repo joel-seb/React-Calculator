@@ -1,0 +1,1 @@
+A simple, minimal calculator app built with React and Vite. Supports basic arithmetic (addition, subtraction, multiplication, division), percentage, and sign toggle, with a clean dark UI inspired by the iOS calculator.
