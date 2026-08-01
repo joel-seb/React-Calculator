@@ -1,0 +1,12 @@
+node_modules/
+*.log
+log/
+
+package.json
+package-lock.json
+
+.env
+.env.local
+
+.idea/
+.vscode/
